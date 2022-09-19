@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #abd9ff;
+}
+.container h1 {
+  display: flex;
+  justify-content: center;
+  font-family: "Bungee Spice", cursive;
+}
+.container h2 {
+  display: flex;
+  justify-content: center;
+  font-family: "Bungee Spice", cursive;
+}
+.container p {
+    color: #f20b0b;
+    display: flex;
+    justify-content:flex-end; 
+    font-family: 'Montserrat', sans-serif;
+}
